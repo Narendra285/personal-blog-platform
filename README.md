@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Personal Blog Platform - Frontend
+
+A React.js-based frontend application for a personal blog platform. This project allows users to view blog posts, create new posts, and interact with the backend API. It is designed with a simple and clean UI, making it easy for users to navigate and create content.
+
+## Features
+
+- Homepage: Displays a list of blog posts.
+- Create New Post: A form to create new blog posts.
+- Responsive Design: The application adjusts to different screen sizes for a smooth experience on both desktop and mobile devices.
+- Navigation Menu: Links to navigate through different sections of the blog platform.
+
+## Technologies Used
+- React.js: Frontend framework for building the user interface.
+- HTML5: Markup language for structure.
+- CSS3: Styles and layout for the design.
+- JavaScript: Scripting language to handle functionality.
+- Axios: For making HTTP requests to the backend API.
